@@ -67,3 +67,9 @@ div ul {
     background-color: #f9f9f9; /* Light Gray */
 }
 
+.feature-card h3 {
+    font-size: 20px; /* 20 px is the default size font size */
+    margin-bottom: 10px; /* adding some space below the heading */
+    color: #2c3e50; /* deep blue text color*/
+}
+
