@@ -103,3 +103,12 @@ a:hover {
 }
 
 /* Styling the button */
+button {
+    padding: 5px 10px; /* Adding some space inside the button */
+    border: none; /* Removing the border */
+    background-color: #ecf0f1; /* Light gray background color */
+    cursor: pointer; /* changing the cursor to a pointer */
+    transition: all 0.3s ease; /* adding a transition */
+}
+
+/* Conditional styling for the hover state */
