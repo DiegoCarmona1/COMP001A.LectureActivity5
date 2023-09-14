@@ -96,3 +96,10 @@ a {
     transition: all 0.3s ease; /* Adding a transition */
 }
 
+/* Conditional styling for the hover state */
+a:hover {
+    background-color: #3498db; /* Bright blue background color */
+    color: white; /* white text color */
+}
+
+/* Styling the button */
