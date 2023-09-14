@@ -58,3 +58,12 @@ ul li {
 div ul {
     list-style-type: square; /* adding bullet points back */
 }
+
+/* General styling using a class */
+.feature-card {
+    border: 2px solid #7f8c8d; /* Grayish-blue */
+    padding: 20px; /* Adding some space inside the card */
+    margin: 20px; /*adding some space outside of the card */
+    background-color: #f9f9f9; /* Light Gray */
+}
+
