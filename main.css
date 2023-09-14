@@ -112,3 +112,6 @@ button {
 }
 
 /* Conditional styling for the hover state */
+button:hover {
+    background-color: red; /* Red background color */
+}
