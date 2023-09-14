@@ -80,3 +80,8 @@ div ul {
 }
 
 /* Specific styling using an ID */
+#special-feature {
+    background-color: #fde3a7; /* light gold background color */
+    border-color: #f39c12; /* Gold border color */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* adding a shadow */
+}
